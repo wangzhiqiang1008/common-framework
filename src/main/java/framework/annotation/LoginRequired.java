@@ -1,4 +1,4 @@
-package framework.common;
+package framework.annotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

@@ -1,6 +1,6 @@
-package framework.common.pojo;
+package framework.pojo;
 
-import framework.common.Init;
+import framework.annotation.Init;
 
 /**
  * @author wangzhiqiang05

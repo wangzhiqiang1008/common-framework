@@ -1,9 +1,9 @@
-package framework.common.factory;
+package framework.Interceptor;
 
 import java.lang.reflect.Method;
 
-import framework.common.Init;
-import framework.common.pojo.User;
+import framework.annotation.Init;
+import framework.pojo.User;
 
 /**
  * @author wangzhiqiang05
